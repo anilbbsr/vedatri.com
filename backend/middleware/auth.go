@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/anilbbsr/vedatri.com/middleware"
-	"github.com/anilbbsr/vedatri.com/models"
+	"github.com/anilbbsr/vedatri.com/backend/middleware"
+	"github.com/anilbbsr/vedatri.com/backend/models"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 	"golang.org/x/crypto/bcrypt"

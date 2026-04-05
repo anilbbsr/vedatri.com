@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/anilbbsr/vedatri.com/models"
+	"github.com/anilbbsr/vedatri.com/backend/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

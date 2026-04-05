@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/anilbbsr/vedatri.com/models"
+	"github.com/anilbbsr/vedatri.com/backend/models"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 	"gorm.io/gorm"

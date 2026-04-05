@@ -3,7 +3,7 @@ package database
 import (
 	"log"
 
-	"github.com/anilbbsr/vedatri.com/models"
+	"github.com/anilbbsr/vedatri.com/backend/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	"github.com/anilbbsr/vedatri.com/config"
-	"github.com/anilbbsr/vedatri.com/database"
-	"github.com/anilbbsr/vedatri.com/handlers"
-	"github.com/anilbbsr/vedatri.com/middleware"
+	"github.com/anilbbsr/vedatri.com/backend/config"
+	"github.com/anilbbsr/vedatri.com/backend/database"
+	"github.com/anilbbsr/vedatri.com/backend/handlers"
+	"github.com/anilbbsr/vedatri.com/backend/middleware"
 	"github.com/gin-gonic/gin"
 )
 

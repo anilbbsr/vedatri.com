@@ -1,4 +1,4 @@
-module github.com/anilbbsr/vedatri.com
+module github.com/anilbbsr/vedatri.com/backend
 
 go 1.22
 
