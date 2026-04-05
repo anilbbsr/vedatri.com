@@ -1,0 +1,9 @@
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=postgres
+DB_PASSWORD=Sabitri@8019
+DB_NAME=vedatri_ecommerce
+
+JWT_SECRET=Sabitri@8019
+PORT=8080
+GIN_MODE=debug
